@@ -1,0 +1,24 @@
+{
+    "name":        "tuupola/jeditable-bundle",
+    "type":        "symfony-bundle",
+    "description": "Jeditable jQuery Plugin Bundle for Symfony2",
+    "keywords":    ["jquery", "jeditable", "javascript", "symfony"],
+    "homepage":    "http://www.appelsiini.net/projects/jeditable",
+    "license":     ["MIT", "GPLv2"],
+    "authors":     [
+        {
+            "name":     "Mika Tuupola",
+            "email":    "tuupola@appelsiini.net",
+            "homepage": "http://www.appelsiini.net"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Tuupola\\JEditableBundle": ""
+        }
+    },
+    "target-dir":  "Tuupola/JEditableBundle"
+}
