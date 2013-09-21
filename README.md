@@ -2,7 +2,7 @@ JEditable Bundle for Symfony2
 
 ## Current Version
 
-JEditable 1.7.1
+JEditable 1.7.3
 
 ## Installation
 
@@ -59,7 +59,7 @@ $ php app/console assets:install --symlink web
 Refer to the desired files in your HTML template, e.g.
 
 ``` html
-{% javascripts '@TuupolaJEditableBundle/Resources/public/js/jquery.jeditable.mini.js' %}
+{% javascripts '@TuupolaJEditableBundle/Resources/public/js/jquery.jeditable.min.js' %}
     <script type="text/javascript" src="{{ asset_url }}"></script>
 {% endjavascripts %}
 ```
