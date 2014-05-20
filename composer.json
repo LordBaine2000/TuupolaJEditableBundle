@@ -1,5 +1,5 @@
 {
-    "name":        "tuupola/jeditable-bundle",
+    "name":        "lordbaine2000/jeditable-bundle",
     "type":        "symfony-bundle",
     "description": "Jeditable jQuery Plugin Bundle for Symfony2",
     "keywords":    ["jquery", "jeditable", "javascript", "symfony"],
@@ -17,8 +17,8 @@
     },
     "autoload":    {
         "psr-0": {
-            "Tuupola\\JEditableBundle": ""
+            "LordBaine2000\\JEditableBundle": ""
         }
     },
-    "target-dir":  "Tuupola/JEditableBundle"
+    "target-dir":  "LordBaine2000/JEditableBundle"
 }
