@@ -1,6 +1,6 @@
 <?php
 
-namespace Tuupola\JEditableBundle;
+namespace LordBaine2000\JEditableBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
